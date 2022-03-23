@@ -1,0 +1,16 @@
+@import './reset.scss';
+
+/*- 1rem = 10px - but default font size stay unchaged -*/
+html {
+    font-size: 62.5%;
+}
+
+button,
+a {
+    cursor: pointer;
+}
+
+button {
+    border: none;
+    background: none;
+}
